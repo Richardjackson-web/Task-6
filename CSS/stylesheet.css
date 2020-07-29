@@ -1,0 +1,120 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.box1{
+    height: 50rem;
+    background-color: #fff;
+}
+.box2{
+    height: 50rem;
+    background-color: rgb(4, 4, 49);
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.text{
+    color:#fff;
+    text-align: center;
+    padding-top: 3rem;
+}
+.line{
+    margin: auto;
+    margin-top: 20px;
+    width: 50px;
+    border: 1.5px solid #707070;
+}
+.input{
+    color: #fff;
+    background-color: rgb(4, 4, 49);
+    border-top: 0 rgb(4, 4, 49);
+    border-left: 0 rgb(4, 4, 49);
+    border-right: 0 rgb(4, 4, 49);
+}
+.form{
+    text-align: center;
+}
+.rada{
+    height: 80px;
+    width: 160px;
+    background-color: rgb(150, 218, 245);
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    position: relative;
+    bottom: 0;
+    margin: auto;
+    margin-top: 20.5rem;
+}
+.btn{
+    background-color: #707070;
+    color: #fff;
+    border-radius: 20px;
+    padding: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.btn4{
+    background-color: #707070;
+    color: #fff;
+    border-radius: 40px 0px 40px 40px;
+    padding: 1.5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.btn1{
+    background-color: rgb(93, 93, 207);
+    color: #fff;
+    border: 2px solid #707070;
+    border-radius: 20px;
+    padding: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.btn2{
+    background-color: #707070;
+    color: #fff;
+    border: 2px solid #707070;
+    border-radius: 20px;
+    padding: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.charity{
+    color: #fff;
+}
+.submit{
+    height: 5rem;
+    background-color: rgb(150, 218, 245);
+    color: #fff;
+    margin-top: 2.5rem;
+    width: 100%;
+    bottom: 0;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    margin-bottom: 0;
+}
+.Ink{
+    margin-top: 7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+.image{
+    margin: 0 auto;
+}
+.red{
+    margin: auto;
+    width: fit-content;
+
+}
+.free{
+    color: rgb(150, 218, 245);
+}
+.Sub{
+    display: inline;
+    text-align: center;
+}
+.arrow{
+    color: red;
+}
+.right{
+    float: right;
+}
